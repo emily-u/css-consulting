@@ -1,0 +1,161 @@
+#wrapper {
+    background-color: black;
+    width: 970px;
+    height: 1060px;
+}
+
+#body {
+    background-color: white;
+    width: 98%;
+    margin: 1%;
+}
+
+#body img {
+    width: 98%;
+    margin: 10px;
+}
+
+h1 {
+    color: white;
+    display: inline-block;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.blue {
+    color: dodgerblue;
+}
+
+.opacity {
+    color: skyblue;
+    opacity: 0.6;
+}
+
+.white {
+    color: white;
+}
+
+#header span {
+    margin-left: 70px;
+}
+
+#main_img {
+    color: white;
+}
+
+.icon {
+    background-color: cornflowerblue;
+    display: inline-block;
+    width: 29.7%;
+    margin-left: 1%;
+    padding: 1%;
+}
+
+#main_img img {
+    width: 11%;
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+}
+
+.icontitle {
+    font-size: 26px;
+}
+
+button {
+    background-color: deepskyblue;
+    height: 38px;
+    width: 140px;
+    font-size: 15px;
+    color: white;
+}
+
+#intro_left img {
+    width: 99%;
+    margin: 0px;
+    height: 170px;
+}
+
+#intro_left {
+    width: 29%;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+#intro_middle {
+    width: 29%;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+#intro_middle h5 {
+    margin: 13px;
+}
+
+#intro_middle button {
+    background-color: white;
+    color: skyblue;
+    border: 0px solid white;
+    padding-right: 40px;
+}
+
+#intro_right {
+    width: 29%;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+h3 {
+    font-size: 19px;
+}
+
+.test {
+    width: 230px;
+    padding: 30px 20px;
+    border: 5px solid #beceeb;
+    position: relative;
+    background-color: #beceeb;
+}
+
+.test span {
+    width: 0;
+    height: 0;
+    font-size: 0;
+    overflow: hidden;
+    position: absolute;
+}
+
+.test span.bot {
+    border-width: 15px;
+    border-style: solid dashed dashed;
+    border-color: #beceeb transparent transparent;
+    left: 20px;
+    bottom: -30px;
+}
+
+#testimontal {
+    font-style: italic;
+    padding-top: 25px;
+    padding-bottom: 45px;
+    margin-top: 20px;
+    color: dodgerblue;
+}
+
+#foot {
+    border-top: 2px solid black;
+    padding-left: 230px;
+    height: 30px;
+    padding-top: 15px;
+    background-color: #beceeb;
+}
+
+#foot span {
+    text-align: center;
+    padding-left: 30px;
+}
